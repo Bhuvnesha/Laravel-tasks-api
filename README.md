@@ -97,22 +97,3 @@ Open a Pull Request
 
 License
 MIT License
-
-
-### Download Options:
-
-1. **Copy-Paste Method**:
-   - Highlight all text above
-   - Create a new file named `README.md`
-   - Paste the content
-   - Save the file
-
-2. **Direct Download**:
-   - [Download README.md file](#) (right-click and "Save link as")
-
-3. **Alternative Formats**:
-   - [PDF Version](#)
-   - [Word Document](#)
-
-### For GitHub:
-Simply create a new file named `README.md` in your project root and paste this content.
